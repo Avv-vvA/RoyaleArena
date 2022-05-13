@@ -1,0 +1,167 @@
+
+Puff_Wolf.png
+size: 1844,1390
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Слой 4
+  rotate: false
+  xy: 2, 628
+  size: 770, 760
+  orig: 770, 760
+  offset: 0, 0
+  index: -1
+Слой 4-1
+  rotate: true
+  xy: 419, 226
+  size: 400, 320
+  orig: 400, 320
+  offset: 0, 0
+  index: -1
+Слой 4-2
+  rotate: false
+  xy: 2, 13
+  size: 236, 176
+  orig: 236, 176
+  offset: 0, 0
+  index: -1
+Слой 4-3
+  rotate: true
+  xy: 410, 11
+  size: 106, 129
+  orig: 106, 129
+  offset: 0, 0
+  index: -1
+Слой 4-4
+  rotate: true
+  xy: 1481, 692
+  size: 233, 341
+  orig: 233, 341
+  offset: 0, 0
+  index: -1
+Слой 4-5
+  rotate: false
+  xy: 1474, 258
+  size: 227, 129
+  orig: 227, 129
+  offset: 0, 0
+  index: -1
+Слой 4-6
+  rotate: true
+  xy: 1703, 272
+  size: 115, 81
+  orig: 115, 81
+  offset: 0, 0
+  index: -1
+Слой 4-8
+  rotate: false
+  xy: 240, 26
+  size: 168, 163
+  orig: 168, 163
+  offset: 0, 0
+  index: -1
+Слой 4-9
+  rotate: false
+  xy: 1481, 927
+  size: 290, 461
+  orig: 290, 461
+  offset: 0, 0
+  index: -1
+Слой 5
+  rotate: false
+  xy: 774, 2
+  size: 698, 694
+  orig: 698, 694
+  offset: 0, 0
+  index: -1
+Слой 5-1
+  rotate: false
+  xy: 1474, 100
+  size: 186, 156
+  orig: 186, 156
+  offset: 0, 0
+  index: -1
+Слой 5-2
+  rotate: false
+  xy: 1773, 1199
+  size: 69, 189
+  orig: 69, 189
+  offset: 0, 0
+  index: -1
+Слой 5-3
+  rotate: false
+  xy: 616, 89
+  size: 156, 135
+  orig: 156, 135
+  offset: 0, 0
+  index: -1
+Слой 5-4
+  rotate: false
+  xy: 601, 6
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+Слой 5-5
+  rotate: false
+  xy: 1474, 8
+  size: 132, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+Слой 5-6
+  rotate: false
+  xy: 1608, 48
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+Слой 5-7
+  rotate: true
+  xy: 419, 119
+  size: 105, 195
+  orig: 105, 195
+  offset: 0, 0
+  index: -1
+Слой 5-8
+  rotate: true
+  xy: 541, 31
+  size: 86, 58
+  orig: 86, 58
+  offset: 0, 0
+  index: -1
+Слой 5-9
+  rotate: true
+  xy: 1773, 1072
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Слой 6
+  rotate: false
+  xy: 1662, 92
+  size: 157, 164
+  orig: 157, 164
+  offset: 0, 0
+  index: -1
+Слой 7
+  rotate: false
+  xy: 1474, 389
+  size: 304, 301
+  orig: 304, 301
+  offset: 0, 0
+  index: -1
+Слой 8
+  rotate: false
+  xy: 2, 191
+  size: 415, 435
+  orig: 415, 435
+  offset: 0, 0
+  index: -1
+Слой 9
+  rotate: false
+  xy: 774, 698
+  size: 705, 690
+  orig: 705, 690
+  offset: 0, 0
+  index: -1

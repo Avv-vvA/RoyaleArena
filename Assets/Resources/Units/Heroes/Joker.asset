@@ -1,0 +1,246 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2293f9709cbcecf48ac7d9d0458340d4, type: 3}
+  m_Name: Joker
+  m_EditorClassIdentifier: 
+  _about:
+    unitName: Joker
+    mainImage: {fileID: 21300000, guid: a8d42557b092bc44b8a997072dc83425, type: 3}
+    shortDescription: 
+    LongDescription: 
+  baseStats:
+    damage: 20
+    attackRadius: 18
+    maxHitPoints: 100
+    armor: 5
+    baseAttackDelay: 1
+    moveSpeed: 7
+    skill1Description: 
+    skill1Value: 0
+    skill2Description: 
+    skill2Value: 0
+  _animations:
+    attack1: {fileID: 11400000, guid: 0332fb70c9337154999345f8de12c02c, type: 2}
+    attack2: {fileID: 11400000, guid: b71c8fdee80b5894cbd46b139d9de148, type: 2}
+    death: {fileID: 11400000, guid: 0865f286ded6be4409a7259245ec30cd, type: 2}
+    fly: {fileID: 11400000, guid: 3b360fe62ffe5a74bb2bd9fb29bda7f6, type: 2}
+    idle: {fileID: 11400000, guid: 800006671684ca04293059e64cdb6298, type: 2}
+    move: {fileID: 11400000, guid: 6e9559d19a2138849aa84ba8be1458d1, type: 2}
+    skill: {fileID: 11400000, guid: 0332fb70c9337154999345f8de12c02c, type: 2}
+    stun: {fileID: 11400000, guid: fa1ad38628f5fec42875f8bdc3ad833c, type: 2}
+  _restrictions:
+    canMove: 1
+    canAttack: 1
+    canSpelled: 1
+    canAnimated: 1
+    canTakeDamage: 1
+    haveUiBar: 1
+  _unitsPf:
+    mainPf: {fileID: 8042271680776738111, guid: 56d3bb5331254c94ea54086f9f54d3a7, type: 3}
+    projectilePf: {fileID: 7364984568701788040, guid: 6a485a9654c9a7246acaaac72a320188, type: 3}
+    uiPf: {fileID: 3707912919313238031, guid: cd8f1a498bd72c747ad9fbee8259368a, type: 3}
+    skill1Pf: {fileID: 0}
+    skill2Pf: {fileID: 0}
+  Fraction: 2
+  heroType: 4
+  heroRare: 0
+  attackType: 1
+  cardLevel: 0
+  cardLevelUpdate:
+    attackUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    hitPointUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    armorUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    attackDelayUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    skill1Upgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    skill2Upgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  cardMergeUpdate:
+    attackUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    hitPointUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    armorUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    attackDelayUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    skill1Upgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    skill2Upgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  cardBuffUpdate:
+    attackUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    hitPointUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    armorUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    attackDelayUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    skill1Upgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    skill2Upgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0

@@ -1,0 +1,110 @@
+
+Ninja.png
+size: 2012,1443
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hair
+  rotate: false
+  xy: 1058, 680
+  size: 887, 453
+  orig: 887, 453
+  offset: 0, 0
+  index: -1
+Hair2
+  rotate: false
+  xy: 2, 292
+  size: 800, 496
+  orig: 800, 496
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1076, 1167
+  size: 399, 274
+  orig: 399, 274
+  offset: 0, 0
+  index: -1
+light_01
+  rotate: true
+  xy: 2, 1372
+  size: 69, 226
+  orig: 69, 226
+  offset: 0, 0
+  index: -1
+бантик1
+  rotate: false
+  xy: 345, 1317
+  size: 135, 124
+  orig: 135, 124
+  offset: 0, 0
+  index: -1
+бантик2
+  rotate: true
+  xy: 230, 1329
+  size: 112, 113
+  orig: 112, 113
+  offset: 0, 0
+  index: -1
+веревка
+  rotate: false
+  xy: 1477, 1135
+  size: 375, 306
+  orig: 375, 306
+  offset: 0, 0
+  index: -1
+ленты
+  rotate: false
+  xy: 2, 907
+  size: 482, 313
+  orig: 482, 313
+  offset: 0, 0
+  index: -1
+мечь
+  rotate: false
+  xy: 804, 150
+  size: 676, 528
+  orig: 676, 528
+  offset: 0, 0
+  index: -1
+мечь 2
+  rotate: true
+  xy: 1482, 2
+  size: 676, 528
+  orig: 676, 528
+  offset: 0, 0
+  index: -1
+рукав
+  rotate: true
+  xy: 482, 1222
+  size: 219, 295
+  orig: 219, 295
+  offset: 0, 0
+  index: -1
+рукав 2
+  rotate: true
+  xy: 779, 1222
+  size: 219, 295
+  orig: 219, 295
+  offset: 0, 0
+  index: -1
+тело
+  rotate: false
+  xy: 486, 790
+  size: 570, 430
+  orig: 570, 430
+  offset: 0, 0
+  index: -1
+
+Ninja2.png
+size: 1431,1492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Swoosh2
+  rotate: false
+  xy: 2, 2
+  size: 1427, 1488
+  orig: 1427, 1488
+  offset: 0, 0
+  index: -1

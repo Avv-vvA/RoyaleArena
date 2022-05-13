@@ -1,0 +1,246 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2293f9709cbcecf48ac7d9d0458340d4, type: 3}
+  m_Name: Gerra
+  m_EditorClassIdentifier: 
+  _about:
+    unitName: Gerra
+    mainImage: {fileID: 21300000, guid: 4cb10e916d42caa46ab495b078cbe4e9, type: 3}
+    shortDescription: 
+    LongDescription: 
+  baseStats:
+    damage: 20
+    attackRadius: 7
+    maxHitPoints: 100
+    armor: 5
+    baseAttackDelay: 1
+    moveSpeed: 7
+    skill1Description: "\u0428\u0430\u043D\u0441 \u043D\u0430 \u0441\u0440\u0430\u0431\u0430\u0442\u044B\u0432\u0430\u043D\u0438\u044F"
+    skill1Value: 15
+    skill2Description: "\u0423\u0440\u043E\u043D \u0432\u043E\u043A\u0440\u0443\u0433"
+    skill2Value: 0
+  _animations:
+    attack1: {fileID: 11400000, guid: b5d3c513088f1e941aeb056bd7c4f212, type: 2}
+    attack2: {fileID: 11400000, guid: 0e9ac6865bc526140b29c667ebed6fe1, type: 2}
+    death: {fileID: 11400000, guid: 749f88acb4610c24aa8a903089a60ade, type: 2}
+    fly: {fileID: 11400000, guid: 22555c42fb30d1c46885cce9606533f1, type: 2}
+    idle: {fileID: 11400000, guid: 06220dcfe9ef4d44c944796c5e8c05e2, type: 2}
+    move: {fileID: 11400000, guid: 31221fd5e5473cd409d17a6000473c6b, type: 2}
+    skill: {fileID: 11400000, guid: b1f407d4b43a0bc4bb4cfe905625341d, type: 2}
+    stun: {fileID: 11400000, guid: a8a3d8398d66c4143b5e2ca1f798ef75, type: 2}
+  _restrictions:
+    canMove: 1
+    canAttack: 1
+    canSpelled: 1
+    canAnimated: 1
+    canTakeDamage: 1
+    haveUiBar: 1
+  _unitsPf:
+    mainPf: {fileID: 4908601602807563073, guid: cf3e2361a633059438666ad4187154ac, type: 3}
+    projectilePf: {fileID: 0}
+    uiPf: {fileID: 1916161572928877715, guid: e6f834bc95dc16c44b457cf50d4235a8, type: 3}
+    skill1Pf: {fileID: 0}
+    skill2Pf: {fileID: 0}
+  Fraction: 0
+  heroType: 2
+  heroRare: 0
+  attackType: 0
+  cardLevel: 0
+  cardLevelUpdate:
+    attackUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    hitPointUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    armorUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    attackDelayUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    skill1Upgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    skill2Upgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  cardMergeUpdate:
+    attackUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    hitPointUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    armorUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    attackDelayUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    skill1Upgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    skill2Upgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  cardBuffUpdate:
+    attackUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    hitPointUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    armorUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    attackDelayUpgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    skill1Upgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    skill2Upgrade:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0

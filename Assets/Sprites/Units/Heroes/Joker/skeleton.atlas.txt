@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 1862,1107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: true
+  xy: 2, 268
+  size: 837, 730
+  orig: 837, 730
+  offset: 0, 0
+  index: -1
+Left eyebrow
+  rotate: true
+  xy: 1679, 167
+  size: 142, 172
+  orig: 142, 172
+  offset: 0, 0
+  index: -1
+Right eyebrow
+  rotate: true
+  xy: 1679, 25
+  size: 140, 166
+  orig: 140, 166
+  offset: 0, 0
+  index: -1
+Smile
+  rotate: false
+  xy: 489, 78
+  size: 352, 188
+  orig: 352, 188
+  offset: 0, 0
+  index: -1
+ворот и бант
+  rotate: false
+  xy: 734, 359
+  size: 547, 746
+  orig: 547, 746
+  offset: 0, 0
+  index: -1
+ворот и бант копия
+  rotate: false
+  xy: 1333, 133
+  size: 344, 176
+  orig: 344, 176
+  offset: 0, 0
+  index: -1
+кубик1
+  rotate: true
+  xy: 270, 35
+  size: 231, 217
+  orig: 231, 217
+  offset: 0, 0
+  index: -1
+кубик2
+  rotate: false
+  xy: 2, 31
+  size: 266, 235
+  orig: 266, 235
+  offset: 0, 0
+  index: -1
+рука1
+  rotate: true
+  xy: 843, 2
+  size: 355, 488
+  orig: 355, 488
+  offset: 0, 0
+  index: -1
+рука2
+  rotate: true
+  xy: 1333, 311
+  size: 357, 488
+  orig: 357, 488
+  offset: 0, 0
+  index: -1
+тело и ноги копия 2
+  rotate: false
+  xy: 1283, 670
+  size: 577, 435
+  orig: 577, 435
+  offset: 0, 0
+  index: -1

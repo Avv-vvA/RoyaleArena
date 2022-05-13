@@ -1,0 +1,83 @@
+
+Angel.png
+size: 2028,1852
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AngelSwoosh
+  rotate: false
+  xy: 581, 941
+  size: 871, 909
+  orig: 871, 909
+  offset: 0, 0
+  index: -1
+Blade
+  rotate: false
+  xy: 2, 691
+  size: 577, 1159
+  orig: 577, 1159
+  offset: 0, 0
+  index: -1
+Central sphere
+  rotate: true
+  xy: 581, 721
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+Hands and weapon
+  rotate: false
+  xy: 2, 37
+  size: 726, 652
+  orig: 726, 652
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 730, 2
+  size: 622, 464
+  orig: 622, 464
+  offset: 0, 0
+  index: -1
+Left sphere
+  rotate: false
+  xy: 728, 751
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+Left wing
+  rotate: true
+  xy: 1425, 307
+  size: 501, 601
+  orig: 501, 601
+  offset: 0, 0
+  index: -1
+Right sphere
+  rotate: true
+  xy: 669, 742
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+Right wing
+  rotate: false
+  xy: 1454, 810
+  size: 563, 601
+  orig: 563, 601
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 1454, 1413
+  size: 565, 437
+  orig: 565, 437
+  offset: 0, 0
+  index: -1
+hair back
+  rotate: false
+  xy: 786, 468
+  size: 637, 471
+  orig: 637, 471
+  offset: 0, 0
+  index: -1

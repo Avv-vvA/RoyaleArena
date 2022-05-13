@@ -1,0 +1,83 @@
+
+Icy.png
+size: 1803,1346
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cape
+  rotate: false
+  xy: 1110, 894
+  size: 690, 450
+  orig: 690, 450
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 1110, 530
+  size: 362, 336
+  orig: 362, 336
+  offset: 0, 0
+  index: -1
+Halo1
+  rotate: false
+  xy: 1134, 18
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1134, 276
+  size: 252, 269
+  orig: 252, 269
+  offset: 0, 0
+  index: -1
+Left arm
+  rotate: false
+  xy: 1448, 347
+  size: 315, 232
+  orig: 315, 232
+  offset: 0, 0
+  index: -1
+Right arm
+  rotate: true
+  xy: 1448, 581
+  size: 311, 353
+  orig: 311, 353
+  offset: 0, 0
+  index: -1
+fog_shine
+  rotate: false
+  xy: 1392, 18
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+star0
+  rotate: false
+  xy: 620, 10
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+плащь
+  rotate: true
+  xy: 596, 524
+  size: 820, 512
+  orig: 820, 512
+  offset: 0, 0
+  index: -1
+посох
+  rotate: true
+  xy: 2, 471
+  size: 873, 592
+  orig: 873, 592
+  offset: 0, 0
+  index: -1
+тело и ноги копия
+  rotate: false
+  xy: 2, 2
+  size: 616, 467
+  orig: 616, 467
+  offset: 0, 0
+  index: -1

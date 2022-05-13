@@ -1,0 +1,76 @@
+
+Hunter.png
+size: 1866,1005
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_01
+  rotate: true
+  xy: 1376, 505
+  size: 69, 226
+  orig: 69, 226
+  offset: 0, 0
+  index: -1
+Мохнушки верх
+  rotate: false
+  xy: 1131, 120
+  size: 733, 181
+  orig: 733, 181
+  offset: 0, 0
+  index: -1
+Мохнушки низ
+  rotate: true
+  xy: 992, 32
+  size: 458, 137
+  orig: 458, 137
+  offset: 0, 0
+  index: -1
+Мохнушки сред
+  rotate: false
+  xy: 1131, 2
+  size: 673, 116
+  orig: 673, 116
+  offset: 0, 0
+  index: -1
+голова
+  rotate: false
+  xy: 900, 492
+  size: 474, 511
+  orig: 474, 511
+  offset: 0, 0
+  index: -1
+перчатка 2
+  rotate: false
+  xy: 1376, 576
+  size: 385, 427
+  orig: 385, 427
+  offset: 0, 0
+  index: -1
+перчатка1
+  rotate: false
+  xy: 623, 25
+  size: 367, 444
+  orig: 367, 444
+  offset: 0, 0
+  index: -1
+пояс
+  rotate: false
+  xy: 1131, 303
+  size: 611, 187
+  orig: 611, 187
+  offset: 0, 0
+  index: -1
+тело и ноги
+  rotate: false
+  xy: 2, 3
+  size: 619, 466
+  orig: 619, 466
+  offset: 0, 0
+  index: -1
+шкура
+  rotate: false
+  xy: 2, 471
+  size: 896, 532
+  orig: 896, 532
+  offset: 0, 0
+  index: -1

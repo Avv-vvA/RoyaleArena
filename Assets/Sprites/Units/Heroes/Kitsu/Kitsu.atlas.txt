@@ -1,0 +1,90 @@
+
+Kitsu.png
+size: 2031,850
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+star0
+  rotate: false
+  xy: 1237, 336
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+волосы
+  rotate: true
+  xy: 285, 260
+  size: 588, 521
+  orig: 588, 521
+  offset: 0, 0
+  index: -1
+наплечи
+  rotate: true
+  xy: 87, 72
+  size: 776, 196
+  orig: 776, 196
+  offset: 0, 0
+  index: -1
+нож
+  rotate: false
+  xy: 1751, 120
+  size: 157, 358
+  orig: 157, 358
+  offset: 0, 0
+  index: -1
+перчатка лев
+  rotate: false
+  xy: 285, 2
+  size: 295, 256
+  orig: 295, 256
+  offset: 0, 0
+  index: -1
+перчатка прав
+  rotate: false
+  xy: 582, 13
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1
+ремни слева
+  rotate: true
+  xy: 884, 2
+  size: 278, 368
+  orig: 278, 368
+  offset: 0, 0
+  index: -1
+ремни справа
+  rotate: false
+  xy: 1751, 480
+  size: 278, 368
+  orig: 278, 368
+  offset: 0, 0
+  index: -1
+тело
+  rotate: true
+  xy: 808, 282
+  size: 566, 427
+  orig: 566, 427
+  offset: 0, 0
+  index: -1
+ухо1
+  rotate: true
+  xy: 1254, 5
+  size: 329, 236
+  orig: 329, 236
+  offset: 0, 0
+  index: -1
+ухо2
+  rotate: true
+  xy: 1492, 7
+  size: 327, 237
+  orig: 327, 237
+  offset: 0, 0
+  index: -1
+хвост
+  rotate: false
+  xy: 2, 39
+  size: 83, 809
+  orig: 83, 809
+  offset: 0, 0
+  index: -1

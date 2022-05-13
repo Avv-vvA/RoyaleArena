@@ -1,0 +1,257 @@
+
+Drummer.png
+size: 2047,2023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blastwave1
+  rotate: false
+  xy: 570, 1509
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Палочка лев зел
+  rotate: true
+  xy: 1939, 1319
+  size: 273, 91
+  orig: 273, 91
+  offset: 0, 0
+  index: -1
+Палочка лев крас
+  rotate: true
+  xy: 1259, 1230
+  size: 265, 81
+  orig: 265, 81
+  offset: 0, 0
+  index: -1
+Палочка лев фио
+  rotate: true
+  xy: 1175, 1231
+  size: 264, 82
+  orig: 264, 82
+  offset: 0, 0
+  index: -1
+Палочка прав зел
+  rotate: true
+  xy: 570, 1282
+  size: 225, 90
+  orig: 225, 90
+  offset: 0, 0
+  index: -1
+Палочка прав крас
+  rotate: true
+  xy: 570, 1058
+  size: 222, 90
+  orig: 222, 90
+  offset: 0, 0
+  index: -1
+Палочка прав фио
+  rotate: true
+  xy: 1939, 1091
+  size: 226, 90
+  orig: 226, 90
+  offset: 0, 0
+  index: -1
+Слой 41 крас
+  rotate: true
+  xy: 816, 497
+  size: 311, 333
+  orig: 311, 333
+  offset: 0, 0
+  index: -1
+Слой 42 фио
+  rotate: false
+  xy: 1688, 770
+  size: 356, 319
+  orig: 356, 319
+  offset: 0, 0
+  index: -1
+барабан зел
+  rotate: false
+  xy: 662, 1130
+  size: 511, 365
+  orig: 511, 365
+  offset: 0, 0
+  index: -1
+барабан крас
+  rotate: false
+  xy: 2, 843
+  size: 511, 365
+  orig: 511, 365
+  offset: 0, 0
+  index: -1
+барабан фио
+  rotate: false
+  xy: 1175, 798
+  size: 511, 365
+  orig: 511, 365
+  offset: 0, 0
+  index: -1
+голова зел
+  rotate: true
+  xy: 322, 28
+  size: 493, 479
+  orig: 493, 479
+  offset: 0, 0
+  index: -1
+голова крас
+  rotate: true
+  xy: 803, 2
+  size: 493, 479
+  orig: 493, 479
+  offset: 0, 0
+  index: -1
+голова фио
+  rotate: true
+  xy: 1284, 8
+  size: 493, 479
+  orig: 493, 479
+  offset: 0, 0
+  index: -1
+наплечи зел
+  rotate: false
+  xy: 2, 1831
+  size: 715, 190
+  orig: 715, 190
+  offset: 0, 0
+  index: -1
+наплечи крас
+  rotate: false
+  xy: 719, 1831
+  size: 715, 190
+  orig: 715, 190
+  offset: 0, 0
+  index: -1
+наплечи фио
+  rotate: false
+  xy: 2, 1639
+  size: 715, 190
+  orig: 715, 190
+  offset: 0, 0
+  index: -1
+палка зел
+  rotate: true
+  xy: 719, 1497
+  size: 332, 650
+  orig: 332, 650
+  offset: 0, 0
+  index: -1
+палка крас
+  rotate: true
+  xy: 719, 1497
+  size: 332, 650
+  orig: 332, 650
+  offset: 0, 0
+  index: -1
+палка фио
+  rotate: true
+  xy: 719, 1497
+  size: 332, 650
+  orig: 332, 650
+  offset: 0, 0
+  index: -1
+перчатка 2 зел
+  rotate: false
+  xy: 1453, 517
+  size: 307, 251
+  orig: 307, 251
+  offset: 0, 0
+  index: -1
+перчатка 2 правая зел
+  rotate: false
+  xy: 512, 528
+  size: 302, 280
+  orig: 302, 280
+  offset: 0, 0
+  index: -1
+перчатка 2 правая фио
+  rotate: true
+  xy: 1765, 466
+  size: 302, 280
+  orig: 302, 280
+  offset: 0, 0
+  index: -1
+перчатка прав 2 крас
+  rotate: true
+  xy: 1765, 162
+  size: 302, 280
+  orig: 302, 280
+  offset: 0, 0
+  index: -1
+тело зел
+  rotate: false
+  xy: 1436, 1594
+  size: 566, 427
+  orig: 566, 427
+  offset: 0, 0
+  index: -1
+тело крас
+  rotate: false
+  xy: 1371, 1165
+  size: 566, 427
+  orig: 566, 427
+  offset: 0, 0
+  index: -1
+тело фио
+  rotate: false
+  xy: 2, 1210
+  size: 566, 427
+  orig: 566, 427
+  offset: 0, 0
+  index: -1
+ткань зел
+  rotate: true
+  xy: 662, 810
+  size: 318, 508
+  orig: 318, 508
+  offset: 0, 0
+  index: -1
+ткань крас
+  rotate: true
+  xy: 2, 523
+  size: 318, 508
+  orig: 318, 508
+  offset: 0, 0
+  index: -1
+ткань фио
+  rotate: false
+  xy: 2, 13
+  size: 318, 508
+  orig: 318, 508
+  offset: 0, 0
+  index: -1
+эффект зел
+  rotate: false
+  xy: 1151, 503
+  size: 300, 293
+  orig: 300, 293
+  offset: 0, 0
+  index: -1
+
+Drummer2.png
+size: 878,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 620, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+перчатка 2 крас
+  rotate: false
+  xy: 2, 7
+  size: 307, 251
+  orig: 307, 251
+  offset: 0, 0
+  index: -1
+перчатка 2 фио
+  rotate: false
+  xy: 311, 7
+  size: 307, 251
+  orig: 307, 251
+  offset: 0, 0
+  index: -1

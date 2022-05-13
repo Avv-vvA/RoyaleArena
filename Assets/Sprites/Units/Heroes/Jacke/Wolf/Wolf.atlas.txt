@@ -1,0 +1,48 @@
+
+Wolf.png
+size: 1295,421
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Левая лапа
+  rotate: true
+  xy: 722, 16
+  size: 91, 251
+  orig: 91, 251
+  offset: 0, 0
+  index: -1
+Правая лапа
+  rotate: true
+  xy: 975, 16
+  size: 91, 251
+  orig: 91, 251
+  offset: 0, 0
+  index: -1
+глаза
+  rotate: true
+  xy: 1260, 276
+  size: 143, 33
+  orig: 143, 33
+  offset: 0, 0
+  index: -1
+морда
+  rotate: false
+  xy: 722, 109
+  size: 340, 310
+  orig: 340, 310
+  offset: 0, 0
+  index: -1
+тело
+  rotate: true
+  xy: 2, 2
+  size: 417, 718
+  orig: 417, 718
+  offset: 0, 0
+  index: -1
+хвост
+  rotate: false
+  xy: 1064, 111
+  size: 194, 308
+  orig: 194, 308
+  offset: 0, 0
+  index: -1
